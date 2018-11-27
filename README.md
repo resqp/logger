@@ -1,0 +1,1 @@
+Simple logger writes to a file
